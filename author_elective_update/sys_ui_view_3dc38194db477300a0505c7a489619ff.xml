@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="DELETE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Minute</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-30 17:30:17</sys_created_on>
+        <sys_id>3dc38194db477300a0505c7a489619ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Minute</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_view_3dc38194db477300a0505c7a489619ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-30 17:30:17</sys_updated_on>
+        <title>Minute</title>
+        <user/>
+    </sys_ui_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>14d78bc3db4d330049eac59705961983</instance_id>
+        <instance_name>dev84621</instance_name>
+        <name>sys_ui_view_3dc38194db477300a0505c7a489619ff</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view"><sys_ui_view action="INSERT_OR_UPDATE"><group/><hidden>false</hidden><name>Minute</name><roles/><sys_class_name>sys_ui_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-07-30 17:30:17</sys_created_on><sys_id>3dc38194db477300a0505c7a489619ff</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Minute</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_view_3dc38194db477300a0505c7a489619ff</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-07-30 17:30:17</sys_updated_on><title>Minute</title><user/></sys_ui_view></record_update>]]></payload>
+        <payload_hash>1411729967</payload_hash>
+        <record_name>Minute</record_name>
+        <reverted_from/>
+        <source>a43a2840dbc33300a0505c7a48961929</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-30 17:30:17</sys_created_on>
+        <sys_id>bdc3c194db477300a0505c7a48961901</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16c43eec4ae0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-30 17:30:17</sys_updated_on>
+        <type>UI View</type>
+        <update_guid>f5c3c194a44773004517047764072e01</update_guid>
+        <update_guid_history>f5c3c194a44773004517047764072e01:1411729967</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-30 20:03:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_view">sys_ui_view</sys_db_object>
+        <sys_id>3c7de9dfca1545709d9f92e4f0137840</sys_id>
+        <sys_metadata>3dc38194db477300a0505c7a489619ff</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Minute</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_view_3dc38194db477300a0505c7a489619ff</sys_update_name>
+        <sys_update_version display_value="sys_ui_view_3dc38194db477300a0505c7a489619ff">bdc3c194db477300a0505c7a48961901</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-30 20:03:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
